@@ -1,0 +1,32 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+}
+
+.poster {
+    background-color: orange;
+    width: 700px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    -webkit-text-fill-color: white;
+    font-size: 32px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.list-items {
+    justify-items: center;
+    -webkit-text-fill-color: white;
+    font-size: 26px;
+    margin-top: 20px;
+}
