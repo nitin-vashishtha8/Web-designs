@@ -1,0 +1,29 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    -webkit-text-fill-color: white;
+    font-size: 32px;
+    margin-top: 5px;
+    margin-bottom: 125px;
+}
+
+.banner {
+    width: 1000px;
+    height: 350px;
+    background: #0056b3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 5px solid black;
+}
